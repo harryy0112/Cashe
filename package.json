@@ -8,7 +8,7 @@
 		"start": "node server.js",
 		"dev": "nodemon server.js"
 	},
-	"author": "Naimish",
+	"author": "Hardik Agarwal",
 	"license": "ISC",
 	"dependencies": {
 		"body-parser": "^1.19.0",
